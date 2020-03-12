@@ -1,0 +1,14 @@
+Line 168: Class MSComctlLib.ListView of control ListView2 was not a loaded control class.
+Line 820: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 174: The property name _ExtentX in ListView2 is invalid.
+Line 175: The property name _ExtentY in ListView2 is invalid.
+Line 176: The property name LabelWrap in ListView2 is invalid.
+Line 177: The property name HideSelection in ListView2 is invalid.
+Line 178: The property name _Version in ListView2 is invalid.
+Line 192: The property name NumItems in ListView2 is invalid.
+Line 827: The property name _ExtentX in ListView1 is invalid.
+Line 828: The property name _ExtentY in ListView1 is invalid.
+Line 829: The property name LabelWrap in ListView1 is invalid.
+Line 830: The property name HideSelection in ListView1 is invalid.
+Line 831: The property name _Version in ListView1 is invalid.
+Line 845: The property name NumItems in ListView1 is invalid.

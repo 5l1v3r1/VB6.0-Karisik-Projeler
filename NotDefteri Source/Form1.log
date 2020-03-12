@@ -1,0 +1,8 @@
+Line 14: Class MSComDlg.CommonDialog of control Cmd2 was not a loaded control class.
+Line 21: Class MSComDlg.CommonDialog of control Cmd1 was not a loaded control class.
+Line 17: The property name _ExtentX in Cmd2 is invalid.
+Line 18: The property name _ExtentY in Cmd2 is invalid.
+Line 19: The property name _Version in Cmd2 is invalid.
+Line 24: The property name _ExtentX in Cmd1 is invalid.
+Line 25: The property name _ExtentY in Cmd1 is invalid.
+Line 26: The property name _Version in Cmd1 is invalid.

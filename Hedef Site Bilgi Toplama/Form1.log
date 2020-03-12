@@ -1,0 +1,331 @@
+Line 42: Class XtremeSuiteControls.WebBrowser of control web5 was not a loaded control class.
+Line 89: Class XtremeSuiteControls.WebBrowser of control WebBrowser1 was not a loaded control class.
+Line 115: Class XtremeSuiteControls.GroupBox of control GroupBox13 was not a loaded control class.
+Line 288: Class XtremeSuiteControls.WebBrowser of control Web4 was not a loaded control class.
+Line 311: Class XtremeSuiteControls.GroupBox of control GroupBox9 was not a loaded control class.
+Line 625: Class XtremeSuiteControls.WebBrowser of control Web3 was not a loaded control class.
+Line 781: Class XtremeSuiteControls.WebBrowser of control Web2 was not a loaded control class.
+Line 1145: Class XtremeSuiteControls.WebBrowser of control Web1 was not a loaded control class.
+Line 1168: Class XtremeSuiteControls.PushButton of control Command1 was not a loaded control class.
+Line 1190: Class XtremeSuiteControls.FlatEdit of control Text1 was not a loaded control class.
+Line 1213: Class XtremeSuiteControls.TabControl of control TabControl1 was not a loaded control class.
+Line 1254: Class XtremeSuiteControls.PushButton of control PushButton2 was not a loaded control class.
+Line 1276: Class XtremeSuiteControls.PushButton of control PushButton1 was not a loaded control class.
+Line 1298: Class XtremeSuiteControls.GroupBox of control GroupBox16 was not a loaded control class.
+Line 1309: Class XtremeSuiteControls.GroupBox of control GroupBox17 was not a loaded control class.
+Line 1330: Class XtremeSuiteControls.ListBox of control ListBox2 was not a loaded control class.
+Line 1389: Class XtremeSuiteControls.GroupBox of control GroupBox10 was not a loaded control class.
+Line 1409: Class XtremeSuiteControls.GroupBox of control GroupBox14 was not a loaded control class.
+Line 1430: Class XtremeSuiteControls.GroupBox of control GroupBox15 was not a loaded control class.
+Line 1450: Class XtremeSuiteControls.ListBox of control ListBox1 was not a loaded control class.
+Line 1492: Class XtremeSuiteControls.GroupBox of control GroupBox12 was not a loaded control class.
+Line 1520: Class XtremeSuiteControls.FlatEdit of control FlatEdit5 was not a loaded control class.
+Line 1543: Class XtremeSuiteControls.FlatEdit of control FlatEdit4 was not a loaded control class.
+Line 1604: Class XtremeSuiteControls.GroupBox of control GroupBox1 was not a loaded control class.
+Line 1625: Class XtremeSuiteControls.GroupBox of control GroupBox2 was not a loaded control class.
+Line 1647: Class XtremeSuiteControls.FlatEdit of control Text10 was not a loaded control class.
+Line 1673: Class XtremeSuiteControls.FlatEdit of control Text9 was not a loaded control class.
+Line 1696: Class XtremeSuiteControls.FlatEdit of control Text7 was not a loaded control class.
+Line 1719: Class XtremeSuiteControls.FlatEdit of control Text6 was not a loaded control class.
+Line 1742: Class XtremeSuiteControls.FlatEdit of control Text5 was not a loaded control class.
+Line 1765: Class XtremeSuiteControls.FlatEdit of control Text4 was not a loaded control class.
+Line 1788: Class XtremeSuiteControls.FlatEdit of control Text3 was not a loaded control class.
+Line 1811: Class XtremeSuiteControls.FlatEdit of control Text8 was not a loaded control class.
+Line 1963: Class XtremeSuiteControls.GroupBox of control GroupBox3 was not a loaded control class.
+Line 1984: Class XtremeSuiteControls.GroupBox of control GroupBox8 was not a loaded control class.
+Line 2005: Class XtremeSuiteControls.ListView of control ListView1 was not a loaded control class.
+Line 2048: Class XtremeSuiteControls.GroupBox of control GroupBox5 was not a loaded control class.
+Line 2075: Class XtremeSuiteControls.GroupBox of control GroupBox7 was not a loaded control class.
+Line 2095: Class XtremeSuiteControls.FlatEdit of control FlatEdit2 was not a loaded control class.
+Line 2137: Class XtremeSuiteControls.GroupBox of control GroupBox6 was not a loaded control class.
+Line 2158: Class XtremeSuiteControls.FlatEdit of control FlatEdit1 was not a loaded control class.
+Line 2181: Class XtremeSuiteControls.FlatEdit of control FlatEdit3 was not a loaded control class.
+Line 2278: Class XtremeSuiteControls.GroupBox of control GroupBox4 was not a loaded control class.
+Line 2299: Class XtremeSuiteControls.GroupBox of control GroupBox11 was not a loaded control class.
+Line 2320: Class XtremeSuiteControls.ListBox of control List1 was not a loaded control class.
+Line 2372: Class XtremeSuiteControls.CommonDialog of control Cmd1 was not a loaded control class.
+Line 48: The property name _Version in web5 is invalid.
+Line 49: The property name _ExtentX in web5 is invalid.
+Line 50: The property name _ExtentY in web5 is invalid.
+Line 51: The property name _StockProps in web5 is invalid.
+Line 95: The property name _Version in WebBrowser1 is invalid.
+Line 96: The property name _ExtentX in WebBrowser1 is invalid.
+Line 97: The property name _ExtentY in WebBrowser1 is invalid.
+Line 98: The property name _StockProps in WebBrowser1 is invalid.
+Line 121: The property name _Version in GroupBox13 is invalid.
+Line 122: The property name _ExtentX in GroupBox13 is invalid.
+Line 123: The property name _ExtentY in GroupBox13 is invalid.
+Line 124: The property name _StockProps in GroupBox13 is invalid.
+Line 125: The property name Caption in GroupBox13 is invalid.
+Line 135: The property name UseVisualStyle in GroupBox13 is invalid.
+Line 294: The property name _Version in Web4 is invalid.
+Line 295: The property name _ExtentX in Web4 is invalid.
+Line 296: The property name _ExtentY in Web4 is invalid.
+Line 297: The property name _StockProps in Web4 is invalid.
+Line 308: The property name ScriptErrorsSuppressed in Web4 is invalid.
+Line 317: The property name _Version in GroupBox9 is invalid.
+Line 318: The property name _ExtentX in GroupBox9 is invalid.
+Line 319: The property name _ExtentY in GroupBox9 is invalid.
+Line 320: The property name _StockProps in GroupBox9 is invalid.
+Line 321: The property name Caption in GroupBox9 is invalid.
+Line 332: The property name UseVisualStyle in GroupBox9 is invalid.
+Line 311: Property BorderStyle in GroupBox9 could not be set.
+Line 631: The property name _Version in Web3 is invalid.
+Line 632: The property name _ExtentX in Web3 is invalid.
+Line 633: The property name _ExtentY in Web3 is invalid.
+Line 634: The property name _StockProps in Web3 is invalid.
+Line 645: The property name ScriptErrorsSuppressed in Web3 is invalid.
+Line 787: The property name _Version in Web2 is invalid.
+Line 788: The property name _ExtentX in Web2 is invalid.
+Line 789: The property name _ExtentY in Web2 is invalid.
+Line 790: The property name _StockProps in Web2 is invalid.
+Line 801: The property name ScriptErrorsSuppressed in Web2 is invalid.
+Line 1151: The property name _Version in Web1 is invalid.
+Line 1152: The property name _ExtentX in Web1 is invalid.
+Line 1153: The property name _ExtentY in Web1 is invalid.
+Line 1154: The property name _StockProps in Web1 is invalid.
+Line 1165: The property name ScriptErrorsSuppressed in Web1 is invalid.
+Line 1174: The property name _Version in Command1 is invalid.
+Line 1175: The property name _ExtentX in Command1 is invalid.
+Line 1176: The property name _ExtentY in Command1 is invalid.
+Line 1177: The property name _StockProps in Command1 is invalid.
+Line 1178: The property name Caption in Command1 is invalid.
+Line 1168: Property Appearance in Command1 could not be set.
+Line 1196: The property name _Version in Text1 is invalid.
+Line 1197: The property name _ExtentX in Text1 is invalid.
+Line 1198: The property name _ExtentY in Text1 is invalid.
+Line 1199: The property name _StockProps in Text1 is invalid.
+Line 1211: The property name UseVisualStyle in Text1 is invalid.
+Line 1190: Property Appearance in Text1 could not be set.
+Line 1219: The property name _Version in TabControl1 is invalid.
+Line 1220: The property name _ExtentX in TabControl1 is invalid.
+Line 1221: The property name _ExtentY in TabControl1 is invalid.
+Line 1222: The property name _StockProps in TabControl1 is invalid.
+Line 1232: The property name AutoResizeClient in TabControl1 is invalid.
+Line 1234: The property name Color in TabControl1 is invalid.
+Line 1235: The property name ItemCount in TabControl1 is invalid.
+Line 1236: The property name SelectedItem in TabControl1 is invalid.
+Line 1237: The property name Item(0).Caption in TabControl1 is invalid.
+Line 1238: The property name Item(0).ControlCount in TabControl1 is invalid.
+Line 1239: The property name Item(0).Control(0) in TabControl1 is invalid.
+Line 1240: The property name Item(1).Caption in TabControl1 is invalid.
+Line 1241: The property name Item(1).ControlCount in TabControl1 is invalid.
+Line 1242: The property name Item(1).Control(0) in TabControl1 is invalid.
+Line 1243: The property name Item(1).Control(1) in TabControl1 is invalid.
+Line 1244: The property name Item(1).Control(2) in TabControl1 is invalid.
+Line 1245: The property name Item(2).Caption in TabControl1 is invalid.
+Line 1246: The property name Item(2).ControlCount in TabControl1 is invalid.
+Line 1247: The property name Item(2).Control(0) in TabControl1 is invalid.
+Line 1248: The property name Item(2).Control(1) in TabControl1 is invalid.
+Line 1249: The property name Item(2).Control(2) in TabControl1 is invalid.
+Line 1250: The property name Item(2).Control(3) in TabControl1 is invalid.
+Line 1251: The property name Item(3).Caption in TabControl1 is invalid.
+Line 1252: The property name Item(3).ControlCount in TabControl1 is invalid.
+Line 1253: The property name Item(3).Control(0) in TabControl1 is invalid.
+Line 1213: Property Appearance in TabControl1 could not be set.
+Line 1260: The property name _Version in PushButton2 is invalid.
+Line 1261: The property name _ExtentX in PushButton2 is invalid.
+Line 1262: The property name _ExtentY in PushButton2 is invalid.
+Line 1263: The property name _StockProps in PushButton2 is invalid.
+Line 1264: The property name Caption in PushButton2 is invalid.
+Line 1254: Property Appearance in PushButton2 could not be set.
+Line 1282: The property name _Version in PushButton1 is invalid.
+Line 1283: The property name _ExtentX in PushButton1 is invalid.
+Line 1284: The property name _ExtentY in PushButton1 is invalid.
+Line 1285: The property name _StockProps in PushButton1 is invalid.
+Line 1286: The property name Caption in PushButton1 is invalid.
+Line 1276: Property Appearance in PushButton1 could not be set.
+Line 1304: The property name _Version in GroupBox16 is invalid.
+Line 1305: The property name _ExtentX in GroupBox16 is invalid.
+Line 1306: The property name _ExtentY in GroupBox16 is invalid.
+Line 1307: The property name _StockProps in GroupBox16 is invalid.
+Line 1298: Property Appearance in GroupBox16 could not be set.
+Line 1315: The property name _Version in GroupBox17 is invalid.
+Line 1316: The property name _ExtentX in GroupBox17 is invalid.
+Line 1317: The property name _ExtentY in GroupBox17 is invalid.
+Line 1318: The property name _StockProps in GroupBox17 is invalid.
+Line 1319: The property name Caption in GroupBox17 is invalid.
+Line 1329: The property name UseVisualStyle in GroupBox17 is invalid.
+Line 1336: The property name _Version in ListBox2 is invalid.
+Line 1337: The property name _ExtentX in ListBox2 is invalid.
+Line 1338: The property name _ExtentY in ListBox2 is invalid.
+Line 1339: The property name _StockProps in ListBox2 is invalid.
+Line 1351: The property name UseVisualStyle in ListBox2 is invalid.
+Line 1330: Property Appearance in ListBox2 could not be set.
+Line 1395: The property name _Version in GroupBox10 is invalid.
+Line 1396: The property name _ExtentX in GroupBox10 is invalid.
+Line 1397: The property name _ExtentY in GroupBox10 is invalid.
+Line 1398: The property name _StockProps in GroupBox10 is invalid.
+Line 1389: Property Appearance in GroupBox10 could not be set.
+Line 1415: The property name _Version in GroupBox14 is invalid.
+Line 1416: The property name _ExtentX in GroupBox14 is invalid.
+Line 1417: The property name _ExtentY in GroupBox14 is invalid.
+Line 1418: The property name _StockProps in GroupBox14 is invalid.
+Line 1419: The property name Caption in GroupBox14 is invalid.
+Line 1409: Property Appearance in GroupBox14 could not be set.
+Line 1436: The property name _Version in GroupBox15 is invalid.
+Line 1437: The property name _ExtentX in GroupBox15 is invalid.
+Line 1438: The property name _ExtentY in GroupBox15 is invalid.
+Line 1439: The property name _StockProps in GroupBox15 is invalid.
+Line 1430: Property Appearance in GroupBox15 could not be set.
+Line 1456: The property name _Version in ListBox1 is invalid.
+Line 1457: The property name _ExtentX in ListBox1 is invalid.
+Line 1458: The property name _ExtentY in ListBox1 is invalid.
+Line 1459: The property name _StockProps in ListBox1 is invalid.
+Line 1471: The property name UseVisualStyle in ListBox1 is invalid.
+Line 1450: Property Appearance in ListBox1 could not be set.
+Line 1498: The property name _Version in GroupBox12 is invalid.
+Line 1499: The property name _ExtentX in GroupBox12 is invalid.
+Line 1500: The property name _ExtentY in GroupBox12 is invalid.
+Line 1501: The property name _StockProps in GroupBox12 is invalid.
+Line 1492: Property Appearance in GroupBox12 could not be set.
+Line 1526: The property name _Version in FlatEdit5 is invalid.
+Line 1527: The property name _ExtentX in FlatEdit5 is invalid.
+Line 1528: The property name _ExtentY in FlatEdit5 is invalid.
+Line 1529: The property name _StockProps in FlatEdit5 is invalid.
+Line 1541: The property name UseVisualStyle in FlatEdit5 is invalid.
+Line 1520: Property Appearance in FlatEdit5 could not be set.
+Line 1549: The property name _Version in FlatEdit4 is invalid.
+Line 1550: The property name _ExtentX in FlatEdit4 is invalid.
+Line 1551: The property name _ExtentY in FlatEdit4 is invalid.
+Line 1552: The property name _StockProps in FlatEdit4 is invalid.
+Line 1563: The property name Alignment in FlatEdit4 is invalid.
+Line 1565: The property name UseVisualStyle in FlatEdit4 is invalid.
+Line 1543: Property Appearance in FlatEdit4 could not be set.
+Line 1611: The property name _Version in GroupBox1 is invalid.
+Line 1612: The property name _ExtentX in GroupBox1 is invalid.
+Line 1613: The property name _ExtentY in GroupBox1 is invalid.
+Line 1614: The property name _StockProps in GroupBox1 is invalid.
+Line 1604: Property Appearance in GroupBox1 could not be set.
+Line 1631: The property name _Version in GroupBox2 is invalid.
+Line 1632: The property name _ExtentX in GroupBox2 is invalid.
+Line 1633: The property name _ExtentY in GroupBox2 is invalid.
+Line 1634: The property name _StockProps in GroupBox2 is invalid.
+Line 1635: The property name Caption in GroupBox2 is invalid.
+Line 1625: Property Appearance in GroupBox2 could not be set.
+Line 1653: The property name _Version in Text10 is invalid.
+Line 1654: The property name _ExtentX in Text10 is invalid.
+Line 1655: The property name _ExtentY in Text10 is invalid.
+Line 1656: The property name _StockProps in Text10 is invalid.
+Line 1667: The property name MultiLine in Text10 is invalid.
+Line 1668: The property name ScrollBars in Text10 is invalid.
+Line 1670: The property name UseVisualStyle in Text10 is invalid.
+Line 1647: Property Appearance in Text10 could not be set.
+Line 1679: The property name _Version in Text9 is invalid.
+Line 1680: The property name _ExtentX in Text9 is invalid.
+Line 1681: The property name _ExtentY in Text9 is invalid.
+Line 1682: The property name _StockProps in Text9 is invalid.
+Line 1694: The property name UseVisualStyle in Text9 is invalid.
+Line 1673: Property Appearance in Text9 could not be set.
+Line 1702: The property name _Version in Text7 is invalid.
+Line 1703: The property name _ExtentX in Text7 is invalid.
+Line 1704: The property name _ExtentY in Text7 is invalid.
+Line 1705: The property name _StockProps in Text7 is invalid.
+Line 1717: The property name UseVisualStyle in Text7 is invalid.
+Line 1696: Property Appearance in Text7 could not be set.
+Line 1725: The property name _Version in Text6 is invalid.
+Line 1726: The property name _ExtentX in Text6 is invalid.
+Line 1727: The property name _ExtentY in Text6 is invalid.
+Line 1728: The property name _StockProps in Text6 is invalid.
+Line 1740: The property name UseVisualStyle in Text6 is invalid.
+Line 1719: Property Appearance in Text6 could not be set.
+Line 1748: The property name _Version in Text5 is invalid.
+Line 1749: The property name _ExtentX in Text5 is invalid.
+Line 1750: The property name _ExtentY in Text5 is invalid.
+Line 1751: The property name _StockProps in Text5 is invalid.
+Line 1763: The property name UseVisualStyle in Text5 is invalid.
+Line 1742: Property Appearance in Text5 could not be set.
+Line 1771: The property name _Version in Text4 is invalid.
+Line 1772: The property name _ExtentX in Text4 is invalid.
+Line 1773: The property name _ExtentY in Text4 is invalid.
+Line 1774: The property name _StockProps in Text4 is invalid.
+Line 1786: The property name UseVisualStyle in Text4 is invalid.
+Line 1765: Property Appearance in Text4 could not be set.
+Line 1794: The property name _Version in Text3 is invalid.
+Line 1795: The property name _ExtentX in Text3 is invalid.
+Line 1796: The property name _ExtentY in Text3 is invalid.
+Line 1797: The property name _StockProps in Text3 is invalid.
+Line 1809: The property name UseVisualStyle in Text3 is invalid.
+Line 1788: Property Appearance in Text3 could not be set.
+Line 1817: The property name _Version in Text8 is invalid.
+Line 1818: The property name _ExtentX in Text8 is invalid.
+Line 1819: The property name _ExtentY in Text8 is invalid.
+Line 1820: The property name _StockProps in Text8 is invalid.
+Line 1831: The property name MultiLine in Text8 is invalid.
+Line 1832: The property name ScrollBars in Text8 is invalid.
+Line 1834: The property name UseVisualStyle in Text8 is invalid.
+Line 1811: Property Appearance in Text8 could not be set.
+Line 1970: The property name _Version in GroupBox3 is invalid.
+Line 1971: The property name _ExtentX in GroupBox3 is invalid.
+Line 1972: The property name _ExtentY in GroupBox3 is invalid.
+Line 1973: The property name _StockProps in GroupBox3 is invalid.
+Line 1963: Property Appearance in GroupBox3 could not be set.
+Line 1990: The property name _Version in GroupBox8 is invalid.
+Line 1991: The property name _ExtentX in GroupBox8 is invalid.
+Line 1992: The property name _ExtentY in GroupBox8 is invalid.
+Line 1993: The property name _StockProps in GroupBox8 is invalid.
+Line 1994: The property name Caption in GroupBox8 is invalid.
+Line 1984: Property Appearance in GroupBox8 could not be set.
+Line 2011: The property name _Version in ListView1 is invalid.
+Line 2012: The property name _ExtentX in ListView1 is invalid.
+Line 2013: The property name _ExtentY in ListView1 is invalid.
+Line 2014: The property name _StockProps in ListView1 is invalid.
+Line 2025: The property name View in ListView1 is invalid.
+Line 2027: The property name UseVisualStyle in ListView1 is invalid.
+Line 2005: Property Appearance in ListView1 could not be set.
+Line 2055: The property name _Version in GroupBox5 is invalid.
+Line 2056: The property name _ExtentX in GroupBox5 is invalid.
+Line 2057: The property name _ExtentY in GroupBox5 is invalid.
+Line 2058: The property name _StockProps in GroupBox5 is invalid.
+Line 2048: Property Appearance in GroupBox5 could not be set.
+Line 2081: The property name _Version in GroupBox7 is invalid.
+Line 2082: The property name _ExtentX in GroupBox7 is invalid.
+Line 2083: The property name _ExtentY in GroupBox7 is invalid.
+Line 2084: The property name _StockProps in GroupBox7 is invalid.
+Line 2094: The property name UseVisualStyle in GroupBox7 is invalid.
+Line 2101: The property name _Version in FlatEdit2 is invalid.
+Line 2102: The property name _ExtentX in FlatEdit2 is invalid.
+Line 2103: The property name _ExtentY in FlatEdit2 is invalid.
+Line 2104: The property name _StockProps in FlatEdit2 is invalid.
+Line 2116: The property name UseVisualStyle in FlatEdit2 is invalid.
+Line 2095: Property Appearance in FlatEdit2 could not be set.
+Line 2143: The property name _Version in GroupBox6 is invalid.
+Line 2144: The property name _ExtentX in GroupBox6 is invalid.
+Line 2145: The property name _ExtentY in GroupBox6 is invalid.
+Line 2146: The property name _StockProps in GroupBox6 is invalid.
+Line 2147: The property name Caption in GroupBox6 is invalid.
+Line 2137: Property Appearance in GroupBox6 could not be set.
+Line 2164: The property name _Version in FlatEdit1 is invalid.
+Line 2165: The property name _ExtentX in FlatEdit1 is invalid.
+Line 2166: The property name _ExtentY in FlatEdit1 is invalid.
+Line 2167: The property name _StockProps in FlatEdit1 is invalid.
+Line 2178: The property name MultiLine in FlatEdit1 is invalid.
+Line 2179: The property name ScrollBars in FlatEdit1 is invalid.
+Line 2187: The property name _Version in FlatEdit3 is invalid.
+Line 2188: The property name _ExtentX in FlatEdit3 is invalid.
+Line 2189: The property name _ExtentY in FlatEdit3 is invalid.
+Line 2190: The property name _StockProps in FlatEdit3 is invalid.
+Line 2201: The property name Alignment in FlatEdit3 is invalid.
+Line 2203: The property name UseVisualStyle in FlatEdit3 is invalid.
+Line 2181: Property Appearance in FlatEdit3 could not be set.
+Line 2285: The property name _Version in GroupBox4 is invalid.
+Line 2286: The property name _ExtentX in GroupBox4 is invalid.
+Line 2287: The property name _ExtentY in GroupBox4 is invalid.
+Line 2288: The property name _StockProps in GroupBox4 is invalid.
+Line 2278: Property Appearance in GroupBox4 could not be set.
+Line 2305: The property name _Version in GroupBox11 is invalid.
+Line 2306: The property name _ExtentX in GroupBox11 is invalid.
+Line 2307: The property name _ExtentY in GroupBox11 is invalid.
+Line 2308: The property name _StockProps in GroupBox11 is invalid.
+Line 2309: The property name Caption in GroupBox11 is invalid.
+Line 2319: The property name UseVisualStyle in GroupBox11 is invalid.
+Line 2326: The property name _Version in List1 is invalid.
+Line 2327: The property name _ExtentX in List1 is invalid.
+Line 2328: The property name _ExtentY in List1 is invalid.
+Line 2329: The property name _StockProps in List1 is invalid.
+Line 2341: The property name UseVisualStyle in List1 is invalid.
+Line 2320: Property Appearance in List1 could not be set.
+Line 2375: The property name _Version in Cmd1 is invalid.
+Line 2376: The property name _ExtentX in Cmd1 is invalid.
+Line 2377: The property name _ExtentY in Cmd1 is invalid.
+Line 2378: The property name _StockProps in Cmd1 is invalid.

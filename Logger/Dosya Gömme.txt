@@ -1,0 +1,4 @@
+http://tr.wikipedia.org/wiki/Steganografi
+
+Resimlerde, 24-bit'lik bir kanallama kullanýlýr. Bu kanallar kýrmýzý, yeþil ve mavi'dir ve her bir kanal 8 bit'lik bir deðere sahip olabilir. 8 bit 256 ayrý deðer saklayabilir, ve örneðin 12 sayýsý 00001100 olarak 240 sayýsý ise 11110000 olarak kodlanacaktýr.
+Öte yandan, bir insan her renkteki 8 bit'in son iki (hatta üç) bitindeki deðiþiklikleri göremeyecektir, zira bu deðiþiklik 3 (veya son üç bit için 7) ton deðiþikliðe eþdeðerdir (oysa ki toplamda 255 ton var). Bu durumda, son üç bit asýl rengin detaylarý yerine baþka bir bilgi saklamak için kullanýlabilir: hesaplayacak olursak görüyoruz ki günümüzde cep telefonlarýnýn çektiði (dolayýsýyla sýkça paylaþýlan) 1600 * 1200 çözünürlükteki bir resmin içine bile 2 Megabayta kadar veri saklanabilir!

@@ -1,0 +1,3 @@
+Facebook Mesaj Gönderme Kodu: http://www.facebook.com/ajax/messaging/composer.php?id=
+ 
+Mesaj ID'ým : 1632216319 

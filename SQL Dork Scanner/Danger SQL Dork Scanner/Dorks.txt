@@ -1,0 +1,9 @@
+merchant.php?id=
+film-list.php?c=
+events.php?id=
+menu.asp?id=
+home.asp?id=
+news.php?id=
+docs.php?id=
+default.php?catid=
+default.php?lang=

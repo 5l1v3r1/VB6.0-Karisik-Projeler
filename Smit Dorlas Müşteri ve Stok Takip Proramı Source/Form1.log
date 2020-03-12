@@ -1,0 +1,181 @@
+Line 70: Class XtremeSuiteControls.GroupBox of control GroupBox4 was not a loaded control class.
+Line 93: Class XtremeSuiteControls.PushButton of control PushButton5 was not a loaded control class.
+Line 115: Class XtremeSuiteControls.GroupBox of control GroupBox5 was not a loaded control class.
+Line 137: Class XtremeSuiteControls.RadioButton of control RadioButton1 was not a loaded control class.
+Line 161: Class XtremeSuiteControls.FlatEdit of control FlatEdit2 was not a loaded control class.
+Line 187: Class XtremeSuiteControls.ListView of control ListView1 was not a loaded control class.
+Line 232: Class MSAdodcLib.Adodc of control Adodc1 was not a loaded control class.
+Line 278: Class XtremeSuiteControls.GroupBox of control GroupBox2 was not a loaded control class.
+Line 407: Class XtremeSuiteControls.GroupBox of control GroupBox3 was not a loaded control class.
+Line 610: Class XtremeSuiteControls.PushButton of control PushButton4 was not a loaded control class.
+Line 632: Class XtremeSuiteControls.PushButton of control PushButton3 was not a loaded control class.
+Line 654: Class XtremeSuiteControls.PushButton of control PushButton2 was not a loaded control class.
+Line 676: Class XtremeSuiteControls.PushButton of control PushButton1 was not a loaded control class.
+Line 799: Class XtremeSuiteControls.GroupBox of control GroupBox1 was not a loaded control class.
+Line 826: Class XtremeSuiteControls.FlatEdit of control FlatEdit1 was not a loaded control class.
+Line 850: Class MSDataGridLib.DataGrid of control DataGrid1 was not a loaded control class.
+Line 983: Class XtremeSuiteControls.FlatEdit of control FlatEdit3 was not a loaded control class.
+Line 1063: Class MSAdodcLib.Adodc of control Adodc2 was not a loaded control class.
+Line 76: The property name _Version in GroupBox4 is invalid.
+Line 77: The property name _ExtentX in GroupBox4 is invalid.
+Line 78: The property name _ExtentY in GroupBox4 is invalid.
+Line 79: The property name _StockProps in GroupBox4 is invalid.
+Line 80: The property name Caption in GroupBox4 is invalid.
+Line 92: The property name UseVisualStyle in GroupBox4 is invalid.
+Line 99: The property name _Version in PushButton5 is invalid.
+Line 100: The property name _ExtentX in PushButton5 is invalid.
+Line 101: The property name _ExtentY in PushButton5 is invalid.
+Line 102: The property name _StockProps in PushButton5 is invalid.
+Line 103: The property name Caption in PushButton5 is invalid.
+Line 113: The property name UseVisualStyle in PushButton5 is invalid.
+Line 121: The property name _Version in GroupBox5 is invalid.
+Line 122: The property name _ExtentX in GroupBox5 is invalid.
+Line 123: The property name _ExtentY in GroupBox5 is invalid.
+Line 124: The property name _StockProps in GroupBox5 is invalid.
+Line 125: The property name Caption in GroupBox5 is invalid.
+Line 136: The property name UseVisualStyle in GroupBox5 is invalid.
+Line 143: The property name _Version in RadioButton1 is invalid.
+Line 144: The property name _ExtentX in RadioButton1 is invalid.
+Line 145: The property name _ExtentY in RadioButton1 is invalid.
+Line 146: The property name _StockProps in RadioButton1 is invalid.
+Line 147: The property name Caption in RadioButton1 is invalid.
+Line 159: The property name Value in RadioButton1 is invalid.
+Line 137: Property Appearance in RadioButton1 could not be set.
+Line 168: The property name _Version in FlatEdit2 is invalid.
+Line 169: The property name _ExtentX in FlatEdit2 is invalid.
+Line 170: The property name _ExtentY in FlatEdit2 is invalid.
+Line 171: The property name _StockProps in FlatEdit2 is invalid.
+Line 183: The property name Text in FlatEdit2 is invalid.
+Line 184: The property name Alignment in FlatEdit2 is invalid.
+Line 193: The property name _Version in ListView1 is invalid.
+Line 194: The property name _ExtentX in ListView1 is invalid.
+Line 195: The property name _ExtentY in ListView1 is invalid.
+Line 196: The property name _StockProps in ListView1 is invalid.
+Line 210: The property name UseVisualStyle in ListView1 is invalid.
+Line 211: The property name Arrange in ListView1 is invalid.
+Line 237: The property name _ExtentX in Adodc1 is invalid.
+Line 238: The property name _ExtentY in Adodc1 is invalid.
+Line 239: The property name ConnectMode in Adodc1 is invalid.
+Line 240: The property name CursorLocation in Adodc1 is invalid.
+Line 241: The property name IsolationLevel in Adodc1 is invalid.
+Line 242: The property name ConnectionTimeout in Adodc1 is invalid.
+Line 243: The property name CommandTimeout in Adodc1 is invalid.
+Line 244: The property name CursorType in Adodc1 is invalid.
+Line 245: The property name LockType in Adodc1 is invalid.
+Line 246: The property name CommandType in Adodc1 is invalid.
+Line 247: The property name CursorOptions in Adodc1 is invalid.
+Line 248: The property name CacheSize in Adodc1 is invalid.
+Line 249: The property name MaxRecords in Adodc1 is invalid.
+Line 250: The property name BOFAction in Adodc1 is invalid.
+Line 251: The property name EOFAction in Adodc1 is invalid.
+Line 252: The property name ConnectStringType in Adodc1 is invalid.
+Line 256: The property name Orientation in Adodc1 is invalid.
+Line 258: The property name Connect in Adodc1 is invalid.
+Line 259: The property name OLEDBString in Adodc1 is invalid.
+Line 260: The property name OLEDBFile in Adodc1 is invalid.
+Line 261: The property name DataSourceName in Adodc1 is invalid.
+Line 262: The property name OtherAttributes in Adodc1 is invalid.
+Line 263: The property name UserName in Adodc1 is invalid.
+Line 264: The property name Password in Adodc1 is invalid.
+Line 265: The property name RecordSource in Adodc1 is invalid.
+Line 266: The property name Caption in Adodc1 is invalid.
+Line 276: The property name _Version in Adodc1 is invalid.
+Line 284: The property name _Version in GroupBox2 is invalid.
+Line 285: The property name _ExtentX in GroupBox2 is invalid.
+Line 286: The property name _ExtentY in GroupBox2 is invalid.
+Line 287: The property name _StockProps in GroupBox2 is invalid.
+Line 288: The property name Caption in GroupBox2 is invalid.
+Line 299: The property name UseVisualStyle in GroupBox2 is invalid.
+Line 413: The property name _Version in GroupBox3 is invalid.
+Line 414: The property name _ExtentX in GroupBox3 is invalid.
+Line 415: The property name _ExtentY in GroupBox3 is invalid.
+Line 416: The property name _StockProps in GroupBox3 is invalid.
+Line 417: The property name Caption in GroupBox3 is invalid.
+Line 428: The property name UseVisualStyle in GroupBox3 is invalid.
+Line 616: The property name _Version in PushButton4 is invalid.
+Line 617: The property name _ExtentX in PushButton4 is invalid.
+Line 618: The property name _ExtentY in PushButton4 is invalid.
+Line 619: The property name _StockProps in PushButton4 is invalid.
+Line 620: The property name Caption in PushButton4 is invalid.
+Line 630: The property name UseVisualStyle in PushButton4 is invalid.
+Line 638: The property name _Version in PushButton3 is invalid.
+Line 639: The property name _ExtentX in PushButton3 is invalid.
+Line 640: The property name _ExtentY in PushButton3 is invalid.
+Line 641: The property name _StockProps in PushButton3 is invalid.
+Line 642: The property name Caption in PushButton3 is invalid.
+Line 652: The property name UseVisualStyle in PushButton3 is invalid.
+Line 660: The property name _Version in PushButton2 is invalid.
+Line 661: The property name _ExtentX in PushButton2 is invalid.
+Line 662: The property name _ExtentY in PushButton2 is invalid.
+Line 663: The property name _StockProps in PushButton2 is invalid.
+Line 664: The property name Caption in PushButton2 is invalid.
+Line 674: The property name UseVisualStyle in PushButton2 is invalid.
+Line 682: The property name _Version in PushButton1 is invalid.
+Line 683: The property name _ExtentX in PushButton1 is invalid.
+Line 684: The property name _ExtentY in PushButton1 is invalid.
+Line 685: The property name _StockProps in PushButton1 is invalid.
+Line 686: The property name Caption in PushButton1 is invalid.
+Line 696: The property name UseVisualStyle in PushButton1 is invalid.
+Line 805: The property name _Version in GroupBox1 is invalid.
+Line 806: The property name _ExtentX in GroupBox1 is invalid.
+Line 807: The property name _ExtentY in GroupBox1 is invalid.
+Line 808: The property name _StockProps in GroupBox1 is invalid.
+Line 809: The property name Caption in GroupBox1 is invalid.
+Line 820: The property name UseVisualStyle in GroupBox1 is invalid.
+Line 832: The property name _Version in FlatEdit1 is invalid.
+Line 833: The property name _ExtentX in FlatEdit1 is invalid.
+Line 834: The property name _ExtentY in FlatEdit1 is invalid.
+Line 835: The property name _StockProps in FlatEdit1 is invalid.
+Line 846: The property name Alignment in FlatEdit1 is invalid.
+Line 848: The property name UseVisualStyle in FlatEdit1 is invalid.
+Line 851: The property name Bindings in DataGrid1 is invalid.
+Line 857: The property name _ExtentX in DataGrid1 is invalid.
+Line 858: The property name _ExtentY in DataGrid1 is invalid.
+Line 859: The property name _Version in DataGrid1 is invalid.
+Line 860: The property name AllowUpdate in DataGrid1 is invalid.
+Line 861: The property name ColumnHeaders in DataGrid1 is invalid.
+Line 862: The property name HeadLines in DataGrid1 is invalid.
+Line 863: The property name RowHeight in DataGrid1 is invalid.
+Line 864: The property name FormatLocked in DataGrid1 is invalid.
+Line 873: The property name HeadFont in DataGrid1 is invalid.
+Line 883: The property name ColumnCount in DataGrid1 is invalid.
+Line 896: The property name Column00 in DataGrid1 is invalid.
+Line 909: The property name Column01 in DataGrid1 is invalid.
+Line 922: The property name Column02 in DataGrid1 is invalid.
+Line 935: The property name Column03 in DataGrid1 is invalid.
+Line 948: The property name Column04 in DataGrid1 is invalid.
+Line 961: The property name Column05 in DataGrid1 is invalid.
+Line 962: The property name SplitCount in DataGrid1 is invalid.
+Line 981: The property name Split0 in DataGrid1 is invalid.
+Line 989: The property name _Version in FlatEdit3 is invalid.
+Line 990: The property name _ExtentX in FlatEdit3 is invalid.
+Line 991: The property name _ExtentY in FlatEdit3 is invalid.
+Line 992: The property name _StockProps in FlatEdit3 is invalid.
+Line 1003: The property name Alignment in FlatEdit3 is invalid.
+Line 1068: The property name _ExtentX in Adodc2 is invalid.
+Line 1069: The property name _ExtentY in Adodc2 is invalid.
+Line 1070: The property name ConnectMode in Adodc2 is invalid.
+Line 1071: The property name CursorLocation in Adodc2 is invalid.
+Line 1072: The property name IsolationLevel in Adodc2 is invalid.
+Line 1073: The property name ConnectionTimeout in Adodc2 is invalid.
+Line 1074: The property name CommandTimeout in Adodc2 is invalid.
+Line 1075: The property name CursorType in Adodc2 is invalid.
+Line 1076: The property name LockType in Adodc2 is invalid.
+Line 1077: The property name CommandType in Adodc2 is invalid.
+Line 1078: The property name CursorOptions in Adodc2 is invalid.
+Line 1079: The property name CacheSize in Adodc2 is invalid.
+Line 1080: The property name MaxRecords in Adodc2 is invalid.
+Line 1081: The property name BOFAction in Adodc2 is invalid.
+Line 1082: The property name EOFAction in Adodc2 is invalid.
+Line 1083: The property name ConnectStringType in Adodc2 is invalid.
+Line 1087: The property name Orientation in Adodc2 is invalid.
+Line 1089: The property name Connect in Adodc2 is invalid.
+Line 1090: The property name OLEDBString in Adodc2 is invalid.
+Line 1091: The property name OLEDBFile in Adodc2 is invalid.
+Line 1092: The property name DataSourceName in Adodc2 is invalid.
+Line 1093: The property name OtherAttributes in Adodc2 is invalid.
+Line 1094: The property name UserName in Adodc2 is invalid.
+Line 1095: The property name Password in Adodc2 is invalid.
+Line 1096: The property name RecordSource in Adodc2 is invalid.
+Line 1097: The property name Caption in Adodc2 is invalid.
+Line 1107: The property name _Version in Adodc2 is invalid.
